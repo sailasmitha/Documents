@@ -1,12 +1,12 @@
 SUMMARY:
 
- 
+Â 
 
-·       5+ years of solid Java/J2EE experience with
+Â·Â Â Â Â Â Â  5+ years of solid Java/J2EE experience with
 Enterprise Distributed Java solutions using Websphere. 
 
 - Expertise in working with **Java, Javascript, JSP, AngularJS, Node.js, Servlets, JDBC, EJB,
-     JUnit, JavaScript, HTML, Spring,  Struts (MVC) Framework and XML.**
+     JUnit, JavaScript, HTML, Spring, Â Struts (MVC) Framework and XML.**
 - Experience
      in Software Development Life Cycle (SDLC) with Analysis, Design,
      Development, Integration, Implementation, Testing and Maintenance using
@@ -30,38 +30,38 @@ Enterprise Distributed Java solutions using Websphere.
 - Experience on different operating systems like **Windows NT, Windows 3.x/95/98/2000,
      MS-DOS, UNIX and LINUX.**
 
-·      
+Â·Â Â Â Â Â Â 
 Multi tasking capabilities and capable of delivering
 in demanding time lines
 
-·      
+Â·Â Â Â Â Â Â 
 Excellent verbal and written communication skills
 
-·      
+Â·Â Â Â Â Â Â 
 Self motivated and needs little or no direction.
 
- 
+Â 
 
- 
+Â 
 
 **
 
 CERTIFICATIONS**: 
 
- 
+Â 
 
-·       Brain bench certified Java 1 Programmer
+Â·Â Â Â Â Â Â  Brain bench certified Java 1 Programmer
 
-·       Brain bench certified JSP2.1 Developer
+Â·Â Â Â Â Â Â  Brain bench certified JSP2.1 Developer
 
- 
- 
+Â 
+Â 
 
 **
 
 TECHNICAL PROFICIENCY**:
 
- 
+Â 
 
 **OPERATING
   SYSTEMS**: 
@@ -74,7 +74,7 @@ UNIX
 
 LINUX
 
- 
+Â 
 
 **LANGUAGES**:
 
@@ -86,7 +86,7 @@ PL/SQL
 
 TSQL
 
- 
+Â 
 
 **JAVA/J2EE TECHNOLOGIES**: 
 
@@ -102,7 +102,7 @@ Servlets
 
 JDBC
 
-** **
+**Â **
 
 **IDE**:
 
@@ -110,7 +110,7 @@ WSAD 4.x
 
 Eclipse
 
- 
+Â 
 
  
 
@@ -122,7 +122,7 @@ MS SQL Server
 
 MongoDB
 
- 
+Â 
 
 **J2EE WEB TECHNOLOGIES**: 
 
@@ -136,7 +136,7 @@ XML
 
 Struts
 
- 
+Â 
 
 **MIDDLEWARE**:
 
@@ -146,7 +146,7 @@ Servlets
 
 JDBC
 
- 
+Â 
 
 **TESTING TOOLS:**
 
@@ -154,23 +154,23 @@ WinRunner
 
 Test Director
 
- Quality Center
+Â Quality Center
 
- 
+Â 
 
- 
+Â 
 
 ### 
 
 EXPERIENCE:
 
-###  
+### Â 
 
 **Client: Tech
-Mahindra Inc, Redmond, WA                                                                 
-JAN 15 – Present**
+Mahindra Inc, Redmond, WAÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+JAN 15 â€“ JUN 17**
 
-**Title:****SDE                             **
+**Title:****SDEÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  **
 
 **Description****:** I am working on Automation
 Management Platform (AMP) project for AT&T. AMP is a unified platform which
@@ -179,32 +179,32 @@ mobility core network through a single user interface. My main role in this
 project is to develop the configuration management module. Configuration module
 is used deploy the changes for selected devices.
 
-** **
+**Â **
 
 **Responsibilities**:
 
-·      
+Â·Â Â Â Â Â Â 
 Attend requirement discussion meetings and
 analyze the requirements. 
 
-·      
+Â·Â Â Â Â Â Â 
 Design and
 development of complete Web application with Spring.
 
-·      
+Â·Â Â Â Â Â Â 
 Develop RESTful
 APIs to communicate with NCS and parse the JSON output
 
-·      
+Â·Â Â Â Â Â Â 
 Integrated the
 output from backend with the UI interface using AngularJS and presented using
 HTML and CSS.
 
-·      
+Â·Â Â Â Â Â Â 
 Stored and retrieved the output
 in the MongoDB database by writing projection queries.
 
-·      
+Â·Â Â Â Â Â Â 
 Worked on AMP 3.0x release where
 we used pronghorn platform which is built on Node.js ,
 
@@ -215,39 +215,39 @@ After
 the changes are done, deployed the changes using Source Tree, Code Cloud and
 Jenkins.
 
-·      
+Â·Â Â Â Â Â Â 
 Used iTrack to track the progress of each
 ticket and give an update.
 
-·      
+Â·Â Â Â Â Â Â 
 Involved in testing of the application and
 guiding the QA team to test different scenarios.
 
-·      
+Â·Â Â Â Â Â Â 
 Attend Scrum Call to give updates and
 delivering sprints biweekly using Agile development methodology.
 
-·      
+Â·Â Â Â Â Â Â 
 Send the project status report to the client 
 
-** **
+**Â **
 
-**Environment**: ** **Java, Javascript, AJAX, JSON, HTML, CSS, Bootstrap, MongoDB, AngularJS,
+**Environment**: **Â **Java, Javascript, AJAX, JSON, HTML, CSS, Bootstrap, MongoDB, AngularJS,
 Node.js, Netbeans, Apache Tomcat server, Spring,Code cloud, Jenkins, SourceTree,Agile, iTrack
 
- 
+Â 
 
-###             
+### Â Â Â Â Â Â Â Â Â Â Â  
 
 **Client: 
 
 IDPH, 
 
-IL                                                           
-                                                  JUL
-06 – JAN 07**
+ILÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â JUL
+06 â€“ JAN 07**
 
-**Title:****J2EE Developer                               **
+**Title:****J2EE DeveloperÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  **
 
 **Description****: **Serving as an application
 developer on internal and external projects for commercial and government
@@ -261,79 +261,79 @@ contributed to two projects Food Drugs and Dairy for the state of
 Illinois and Hendrickson
 warranty claim system.
 
-** **
+**Â **
 
 **Responsibilities**:
 
-·      
+Â·Â Â Â Â Â Â 
 Design and development of application use
 case realizations using EclipseUML. 
 
-·      
+Â·Â Â Â Â Â Â 
 Communication of the implementation decisions
 to the lead developer on a project.
 
-·      
+Â·Â Â Â Â Â Â 
 Involved in
 designing and developing complete Web tier of the application with Struts.
 
-·      
+Â·Â Â Â Â Â Â 
 Web component development using JSP, Servlets
 and Struts Tag Libraries.
 
-·      
+Â·Â Â Â Â Â Â 
 Class implementation for all application
 tiers. 
 
-·      
+Â·Â Â Â Â Â Â 
 Configured the
 struts-config. Xml, web. Xml and validation. Xml
 
-·      
+Â·Â Â Â Â Â Â 
 Ported an EJB-based application to the
 lightweight container architecture (Spring Framework and Hibernate).
 
 - Developed test cases for unit testing and
      integration testing.
 
-·       Database
+Â·Â Â Â Â Â Â  Database
 table design and SQL programming.
 
 - Monitored the database using DB2
      monitoring tools. Analyzed and optimized performance of the application
      based on the results.
 
-·      
+Â·Â Â Â Â Â Â 
 Documented the release and deployment
 procedures.
 
- 
+Â 
 
 **Environment****: **Java, JSP and Servlets, MS Sql
 Server,DB2, WebSphere
-Studio Application    Developer (WSAD
-5.1), WebSphere Application Server 5.0**            ,**Spring,Hibernate,ClearCase,ClearQuest
+Studio ApplicationÂ Â Â  Developer (WSAD
+5.1), WebSphere Application Server 5.0**Â Â Â Â Â Â Â Â Â Â Â  ,**Spring,Hibernate,ClearCase,ClearQuest
 
- 
+Â 
 
-###             
+### Â Â Â Â Â Â Â Â Â Â Â  
 
-###  
+### Â 
 
 []()[**CLIENT: **]()
 
 **JPMorgan Chase****, 
 
-IL****                                                                                      MAR
+IL****Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â MAR
 06-JUL 06**
 
 **Role: Sr.
-J2EE Developer                              
+J2EE DeveloperÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 **
 
-###  
+### Â 
 
-###  Description: JPMorgan
+### Â Description: JPMorgan
 Chase is a leading provider of banking and financial services like credit card
 services, loans, cds, savings and insurance needs. Chase Insurance is the
 company for life, annuity, and debt protection products serving the people
@@ -343,7 +343,7 @@ customers. The main scope of this project is to provide ebusiness for chase
 insurance. The main modules involve contract details, sub account details,
 transfers loan values and transaction history.
 
- 
+Â 
 
 **Responsibilities**:
 
@@ -378,29 +378,29 @@ transfers loan values and transaction history.
 - Deployed the application for production using
      websphere administration server.
 
- 
+Â 
 
- 
+Â 
 
 **Environment**: Java, J2EE,
 Struts, UML/Rational Rose, Log4j, JSP, XML, EJB, WSAD, WebSphere, Rational
 ClearCase, Junit, PL/SQL, Oracle 9i.
 
- 
+Â 
 
- 
+Â 
 
-** **
+**Â **
 
-**CLIENT: CMC PVT Ltd, India                                                                   MAY 2000 – MAR 2001**
+**CLIENT: CMC PVT Ltd, India Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â MAY 2000 â€“ MAR 2001**
 
 **Role: J2EE Developer**
 
- 
+Â 
 
-**Description**: 
+**Description**:Â 
 Aim of this
-project is to analyze the efficiency of the online  courses provided by CMC PVT Ltd. This
+project is to analyze the efficiency of the onlineÂ  courses provided by CMC PVT Ltd. This
 Efficiency Reporting System generates the reports either text based or graphics
 based on the basis of course utilization by their customers. This system gets
 the data from the user login and registration into different course and the
@@ -408,11 +408,11 @@ number of times a page is accessed by a registered user. This will be processed
 and stored into relational database. Based on that, reports will be generated
 including Bar Charts, Pie Charts, Clustered Bar Charts and Text Reports.
 
- 
+Â 
 
 **Responsibilities**:
 
- 
+Â 
 
 - Involved in the design,
      development of the system. 
@@ -426,28 +426,28 @@ including Bar Charts, Pie Charts, Clustered Bar Charts and Text Reports.
      to generate GIF files to put on the JSP pages for getting graphical
      reports on the web. 
 
- 
+Â 
 
 **Environment:** Java, Servlets, HTML, DHTML, JDBC, JavaBeans, ANT, Oracle,
 Dreamweaver, Windows NT, Tomcat 3.1
 
-** **
+**Â **
 
- 
+Â 
 
- 
+Â 
 
- 
+Â 
 
 **CLIENT: CMC
-PVT Ltd, India                                                                  AUG 1999-MAY 2000**
+PVT Ltd, IndiaÂ Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â AUG 1999-MAY 2000**
 
 **Role: J2EE
 Developer **
 
- 
+Â 
 
- **Description:**  This application provides web-based access to
+Â **Description:**Â  This application provides web-based access to
 courses taught by CMC Pvt Ltd. Students access course pages online and they
 have access to "My courses" that shows details like their grades for
 a course, course calendar, homeworks, assignments, deadlines etc. This project
@@ -455,11 +455,11 @@ makes a course completely web based by allowing users to take assignments and
 tests online. This project also provides different additional facilities
 including class conference, and online help modules for users. 
 
- 
+Â 
 
 **Responsibilities**:
 
- 
+Â 
 
 - Extensively used JSPs/Servlets
      with Apache/Tomcat Web Servers. 
@@ -474,26 +474,26 @@ including class conference, and online help modules for users.
 - Performed unit testing and
      system testing. 
 
- 
+Â 
 
 **Environment**: Java, Servlets, HTML, DHTML, JDBC, JavaBeans, ANT,
 Oracle, Dreamweaver, Windows NT, Tomcat
 
- 
+Â 
 
 **
 
 EDUCATION QUALIFICATIONS**:
 
- 
+Â 
 
 B.Tech
 (Electronics and computers engineering), S.V. University, India 
 
- 
+Â 
 
- 
+Â 
 
- 
+Â 
 
- 
+Â 
